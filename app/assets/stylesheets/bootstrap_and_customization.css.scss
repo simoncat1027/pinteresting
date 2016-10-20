@@ -1,5 +1,9 @@
 $body-bg:		#2980b9;
 $navbar-default-bg: #ecf0f1;
-$navbar-default-link-color: #2980b9;	
+$navbar-default-link-color: #2980b9;
 
 @import 'bootstrap';
+
+.navbar-brand {
+	font-weight: bold;
+}
